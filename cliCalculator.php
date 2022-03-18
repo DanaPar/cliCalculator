@@ -1,13 +1,14 @@
 <?php
 
+
 echo "|----This is command line calculator---|" . "\n";
 
 $help = "**Operation menu:**" . "\n" .
-    "+ sum" . "\n" .
-    "- minus" . "\n" .
+    "+ addition" . "\n" .
+    "- subtraction" . "\n" .
     "* multiplication" . "\n" .
     "/ division" . "\n"	.
-    "^ to the power of 2" . "\n" .
+    "^ square" . "\n" .
     "V square root" . "\n" .
     "C clear result" . "\n" .
     "HELP for operation menu" . "\n \n";
